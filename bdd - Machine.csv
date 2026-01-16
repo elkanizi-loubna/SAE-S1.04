@@ -1,0 +1,16 @@
+IdMachine,Nom_,IdModele,idHistorique
+MAC_01,Four Principal,MOD_A,HIS_01
+MAC_02,Robot Hall,MOD_B,HIS_02
+MAC_03,Batteur Patiss,MOD_C,HIS_03
+MAC_04,Laser Atelier,MOD_D,HIS_04
+MAC_05,Frigo Stock,MOD_E,HIS_05
+MAC_06,Serveur Web,MOD_F,HIS_06
+MAC_07,Tapis Entrée,MOD_G,HIS_07
+MAC_08,Presse 1,MOD_H,HIS_08
+MAC_09,Filtre Atelier,MOD_I,HIS_09
+MAC_10,Bras Montage,MOD_J,HIS_10
+MAC_11,Scan Qualité,MOD_K,HIS_11
+MAC_12,Imprimante Proto,MOD_L,HIS_12
+MAC_13,Laveuse Cuisine,MOD_M,HIS_13
+MAC_14,Four Pizzas,MOD_N,HIS_14
+MAC_15,Drone 01,MOD_O,HIS_15

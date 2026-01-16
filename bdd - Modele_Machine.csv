@@ -1,0 +1,16 @@
+IdModele,Nom_Modele_,Description,idEntretien
+MOD_A,Turbo 3000,Four industriel,ENT_01
+MOD_B,CleanBot,Robot nettoyage,ENT_02
+MOD_C,MixMaster,Batteur géant,ENT_03
+MOD_D,CutterPro,Découpe laser,ENT_04
+MOD_E,FreezeX,Surgélateur,ENT_05
+MOD_F,DataServer,Serveur Baie,ENT_06
+MOD_G,Conveyor,Tapis Roulant,ENT_07
+MOD_H,PressHydrau,Presse,ENT_08
+MOD_I,FilterMax,Purificateur Air,ENT_09
+MOD_J,RobotArm,Bras Articulé,ENT_10
+MOD_K,Scanner3D,Scan Pièce,ENT_11
+MOD_L,Printer3D,Imprimante 3D,ENT_12
+MOD_M,WasherIndus,Lave-Vaisselle,ENT_13
+MOD_N,OvenSmart,Four Connecté,ENT_14
+MOD_O,DroneDeliver,Drone Livraison,ENT_15

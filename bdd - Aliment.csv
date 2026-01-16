@@ -1,0 +1,16 @@
+idAliment,Nom_,Allergene,Infos_spécial
+ALI_01,Fromage Raclette,Lactose,Base de l'alimentation
+ALI_02,Tenders de Poulet,Gluten,Frit deux fois
+ALI_03,Viande Kebab,Aucun,Origine mystérieuse
+ALI_04,Beurre Doux,Lactose,À manger à la cuillère
+ALI_05,Beurre Demi-Sel,Lactose,Pour le goût
+ALI_06,Ananas,Aucun,Le fruit de la discorde
+ALI_07,Saumon,Poisson,Bien gras
+ALI_08,Pâte à Pizza,Gluten,Épaisse
+ALI_09,Brocoli,Aucun,DANGER : Vitamines
+ALI_10,Frites,Friture,Molles et grasses
+ALI_11,Saucisse,Porc,Industrielle
+ALI_12,Lardons,Porc,Fumés
+ALI_13,Steak Haché,Boeuf,30% Matière Grasse
+ALI_14,Chapelure,Gluten,Pour paner le fromage
+ALI_15,Sauce Poutine,Gluten,Marron et salée

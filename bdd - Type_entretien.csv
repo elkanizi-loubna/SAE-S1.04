@@ -1,0 +1,16 @@
+idEntretien,Nom_Entretien,Periodicité
+ENT_01,Révision Moteur,Annuelle
+ENT_02,Nettoyage Filtre,Mensuelle
+ENT_03,Vidange,Semestrielle
+ENT_04,Calibrage,Trimestrielle
+ENT_05,Graissage,Mensuelle
+ENT_06,Update Logiciel,Hebdomadaire
+ENT_07,Remplacement Joint,Annuelle
+ENT_08,Test Securité,Quotidienne
+ENT_09,Détartrage,Mensuelle
+ENT_10,Peinture,Biennale
+ENT_11,Contrôle Electrique,Annuelle
+ENT_12,Changement Lame,Trimestrielle
+ENT_13,Nettoyage Complet,Hebdomadaire
+ENT_14,Audit,Annuelle
+ENT_15,Réparation,Ponctuelle
